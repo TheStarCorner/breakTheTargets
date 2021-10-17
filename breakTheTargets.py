@@ -51,7 +51,7 @@ class MyGame(arcade.Window):
         self.enemy_list = None
         self.player_list = None
 
-        # Set up the player
+        # Set """ up  """the player
         self.player_sprite = None
         self.physics_engine = None
         self.view_left = 0
